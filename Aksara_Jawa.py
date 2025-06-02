@@ -222,6 +222,7 @@ st.markdown("""
         background: white;
         height: 48px;
         font-size: 16px;
+        color: #5D8736;
     }
     
     .stTextInput > div > div > input:focus {
@@ -447,11 +448,18 @@ def display_results(results):
 def main():
     # Header aplikasi
     st.markdown("""
-    <div class="main-header">
-        <h1>📜 Pencarian Naskah Jawa</h1>
-        <p>Wedhus lan Asu Ajag (Kambing dan Serigala)</p>
+<div style='position: relative; text-align: center; height: 250px; border-radius: 10px; overflow: hidden; margin-bottom: 30px;'>
+    <img src='https://startfmmadina.com/wp-content/uploads/2022/09/Serigala-dan-Anak-Kambing-yang-Berhati-hati-620x330.jpg' 
+         style='width: 100%; height: 100%; object-fit: cover; filter: brightness(60%);' />
+    <div style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+                display: flex; flex-direction: column; justify-content: center; align-items: center;
+                color: white; text-shadow: 1px 1px 3px rgba(0,0,0,0.8); padding: 20px;'>
+        <h1 style='margin: 0;'>📜 Pencarian Naskah Jawa</h1>
+        <p style='margin: 10px 0 0 0; font-size: 18px;'>Wedhus lan Asu Ajag (Kambing dan Serigala)</p>
     </div>
-    """, unsafe_allow_html=True)
+</div>
+""", unsafe_allow_html=True)
+
     
     # Sidebar untuk pengaturan pencarian
     with st.sidebar:
@@ -482,7 +490,7 @@ def main():
         """)
     
     # Area pencarian utama
-    col1, col2 = st.columns([4, 1])
+    col1, col2 = st.columns([5, 1])
     
     with col1:
         keyword = st.text_input(
@@ -493,8 +501,7 @@ def main():
         )
     
     with col2:
-        # Add some spacing to align with text input
-        st.markdown("<div style='height: 8px;'></div>", unsafe_allow_html=True)
+        st.markdown("<div style='margin-top: 16px;'></div>", unsafe_allow_html=True)
         search_button = st.button("Cari", type="primary", use_container_width=True)
     
     # Proses pencarian
