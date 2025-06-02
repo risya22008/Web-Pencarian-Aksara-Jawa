@@ -186,6 +186,16 @@ st.markdown("""
         background: linear-gradient(135deg, #5D8736 0%, #809D3C 100%);
     }
     
+    /* Sidebar background */
+    [data-testid="stSidebar"] {
+        background: linear-gradient(135deg, #3a5a22 0%, #556b2f 100%);
+        color: white;
+    }
+    /* Sidebar teks */
+    [data-testid="stSidebar"] * {
+        color: white !important;
+    }
+    
     /* Sidebar content styling */
     .css-1d391kg .css-1544g2n {
         color: white;
