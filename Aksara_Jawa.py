@@ -490,7 +490,7 @@ def main():
         """)
     
     # Area pencarian utama
-    col1, col2 = st.columns([5, 1])
+    col1, col2 = st.columns([4, 1])
     
     with col1:
         keyword = st.text_input(
@@ -501,7 +501,7 @@ def main():
         )
     
     with col2:
-        st.markdown("<div style='margin-top: 16px;'></div>", unsafe_allow_html=True)
+        # st.markdown("<div style='margin-top: 0px;'></div>", unsafe_allow_html=True)
         search_button = st.button("Cari", type="primary", use_container_width=True)
     
     # Proses pencarian
