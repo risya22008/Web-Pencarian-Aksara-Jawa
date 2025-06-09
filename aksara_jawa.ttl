@@ -38,7 +38,7 @@
     jawa:berartiDalamBahasaIndonesia "di";
     jawa:memilikiContohKalimatIndonesia "Pada suatu hari, terdapat ibu kambing beserta anaknya.";
     jawa:memilikiContohKalimatLatin "Ing sawijining dina, ana wedhus lan anaké.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦲꦶꦁꦱꦮꦶꦗꦶꦤꦶꦁꦢꦶꦤ꧈ꦲꦤꦮꦼꦢꦸꦱ꧀ꦭꦤ꧀ꦲꦤꦏꦺ꧉".
 
 
 <http://example.org/kata/sawijining> a jawa:Kata ;
@@ -47,7 +47,7 @@
     jawa:berartiDalamBahasaIndonesia "suatu";
     jawa:memilikiContohKalimatIndonesia "Pada suatu hari, terdapat ibu kambing beserta anaknya.";
     jawa:memilikiContohKalimatLatin "Ing sawijining dina, ana wedhus lan anaké.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦲꦶꦁꦱꦮꦶꦗꦶꦤꦶꦁꦢꦶꦤ꧈ꦲꦤꦮꦼꦢꦸꦱ꧀ꦭꦤ꧀ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/dina> a jawa:Kata ;
     jawa:memilikiAksara "ꦢꦶꦤ" ;
@@ -55,7 +55,7 @@
     jawa:berartiDalamBahasaIndonesia "hari";
     jawa:memilikiContohKalimatIndonesia "Pada suatu hari, terdapat ibu kambing beserta anaknya.";
     jawa:memilikiContohKalimatLatin "Ing sawijining dina, ana wedhus lan anaké.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦲꦶꦁꦱꦮꦶꦗꦶꦤꦶꦁꦢꦶꦤ꧈ꦲꦤꦮꦼꦢꦸꦱ꧀ꦭꦤ꧀ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/ana> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦤ" ;
@@ -63,7 +63,7 @@
     jawa:berartiDalamBahasaIndonesia "ada";
     jawa:memilikiContohKalimatIndonesia "Pada suatu hari, terdapat ibu kambing beserta anaknya.";
     jawa:memilikiContohKalimatLatin "Ing sawijining dina, ana wedhus lan anaké.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦲꦶꦁꦱꦮꦶꦗꦶꦤꦶꦁꦢꦶꦤ꧈ꦲꦤꦮꦼꦢꦸꦱ꧀ꦭꦤ꧀ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/anaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦤꦏꦺ" ;
@@ -71,7 +71,7 @@
     jawa:berartiDalamBahasaIndonesia "anaknya";
     jawa:memilikiContohKalimatIndonesia "Pada suatu hari, terdapat ibu kambing beserta anaknya.";
     jawa:memilikiContohKalimatLatin "Ing sawijining dina, ana wedhus lan anaké.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦲꦶꦁꦱꦮꦶꦗꦶꦤꦶꦁꦢꦶꦤ꧈ꦲꦤꦮꦼꦢꦸꦱ꧀ꦭꦤ꧀ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/dicritakaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦢꦶꦕꦿꦶꦠꦏꦺ" ;
@@ -79,7 +79,7 @@
     jawa:berartiDalamBahasaIndonesia "diceritakan";
     jawa:memilikiContohKalimatIndonesia "Dikisahkan bahwa sang ibu kambing ingin pergi ke hutan untuk mencari makanan.";
     jawa:memilikiContohKalimatLatin "Dicritakaké  yèn wedhus arepmenyang alas golèk pangan.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦢꦶꦕꦿꦶꦠꦏꦺꦪꦺꦤ꧀ꦮꦼꦣꦸꦱ꧀ꦲꦫꦺꦥ꧀ꦩꦼꦤꦾꦁꦲꦭꦱ꧀ꦒꦺꦴꦭꦺꦏ꧀ꦥꦔꦤ꧀꧉".
     
 
 <http://example.org/kata/yèn> a jawa:Kata ;
@@ -88,7 +88,7 @@
     jawa:berartiDalamBahasaIndonesia "bahwa";
     jawa:memilikiContohKalimatIndonesia "Dikisahkan bahwa sang ibu kambing ingin pergi ke hutan untuk mencari makanan.";
     jawa:memilikiContohKalimatLatin "Dicritakaké  yèn wedhus arepmenyang alas golèk pangan.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦢꦶꦕꦿꦶꦠꦏꦺꦪꦺꦤ꧀ꦮꦼꦣꦸꦱ꧀ꦲꦫꦺꦥ꧀ꦩꦼꦤꦾꦁꦲꦭꦱ꧀ꦒꦺꦴꦭꦺꦏ꧀ꦥꦔꦤ꧀꧉".
 
 <http://example.org/kata/arep> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦫꦺꦥ꧀" ;
@@ -96,7 +96,7 @@
     jawa:berartiDalamBahasaIndonesia "ingin";
     jawa:memilikiContohKalimatIndonesia "Dikisahkan bahwa sang ibu kambing ingin pergi ke hutan untuk mencari makanan.";
     jawa:memilikiContohKalimatLatin "Dicritakaké  yèn wedhus arepmenyang alas golèk pangan.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦢꦶꦕꦿꦶꦠꦏꦺꦪꦺꦤ꧀ꦮꦼꦣꦸꦱ꧀ꦲꦫꦺꦥ꧀ꦩꦼꦤꦾꦁꦲꦭꦱ꧀ꦒꦺꦴꦭꦺꦏ꧀ꦥꦔꦤ꧀꧉".
 
 <http://example.org/kata/menyang> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦼꦤꦾꦁ" ;
@@ -104,7 +104,7 @@
     jawa:berartiDalamBahasaIndonesia "pergi ke";
     jawa:memilikiContohKalimatIndonesia "Dikisahkan bahwa sang ibu kambing ingin pergi ke hutan untuk mencari makanan.";
     jawa:memilikiContohKalimatLatin "Dicritakaké  yèn wedhus arepmenyang alas golèk pangan.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦢꦶꦕꦿꦶꦠꦏꦺꦪꦺꦤ꧀ꦮꦼꦣꦸꦱ꧀ꦲꦫꦺꦥ꧀ꦩꦼꦤꦾꦁꦲꦭꦱ꧀ꦒꦺꦴꦭꦺꦏ꧀ꦥꦔꦤ꧀꧉".
 
 <http://example.org/kata/alas> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦭꦱ꧀" ;
@@ -112,7 +112,7 @@
     jawa:berartiDalamBahasaIndonesia "hutan";
     jawa:memilikiContohKalimatIndonesia "Dikisahkan bahwa sang ibu kambing ingin pergi ke hutan untuk mencari makanan.";
     jawa:memilikiContohKalimatLatin "Dicritakaké  yèn wedhus arepmenyang alas golèk pangan.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦢꦶꦕꦿꦶꦠꦏꦺꦪꦺꦤ꧀ꦮꦼꦣꦸꦱ꧀ꦲꦫꦺꦥ꧀ꦩꦼꦤꦾꦁꦲꦭꦱ꧀ꦒꦺꦴꦭꦺꦏ꧀ꦥꦔꦤ꧀꧉".
 
 <http://example.org/kata/golèk> a jawa:Kata ;
     jawa:memilikiAksara "ꦒꦺꦴꦭꦺꦏ꧀" ;
@@ -120,7 +120,7 @@
     jawa:berartiDalamBahasaIndonesia "mencari";
     jawa:memilikiContohKalimatIndonesia "Dikisahkan bahwa sang ibu kambing ingin pergi ke hutan untuk mencari makanan.";
     jawa:memilikiContohKalimatLatin "Dicritakaké  yèn wedhus arepmenyang alas golèk pangan.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦢꦶꦕꦿꦶꦠꦏꦺꦪꦺꦤ꧀ꦮꦼꦣꦸꦱ꧀ꦲꦫꦺꦥ꧀ꦩꦼꦤꦾꦁꦲꦭꦱ꧀ꦒꦺꦴꦭꦺꦏ꧀ꦥꦔꦤ꧀꧉".
 
 <http://example.org/kata/pangan> a jawa:Kata ;
     jawa:memilikiAksara "ꦥꦔꦤ꧀" ;
@@ -128,7 +128,7 @@
     jawa:berartiDalamBahasaIndonesia "makanan";
     jawa:memilikiContohKalimatIndonesia "Dikisahkan bahwa sang ibu kambing ingin pergi ke hutan untuk mencari makanan.";
     jawa:memilikiContohKalimatLatin "Dicritakaké  yèn wedhus arepmenyang alas golèk pangan.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦢꦶꦕꦿꦶꦠꦏꦺꦪꦺꦤ꧀ꦮꦼꦣꦸꦱ꧀ꦲꦫꦺꦥ꧀ꦩꦼꦤꦾꦁꦲꦭꦱ꧀ꦒꦺꦴꦭꦺꦏ꧀ꦥꦔꦤ꧀꧉".
 
 <http://example.org/kata/niaté> a jawa:Kata ;
     jawa:memilikiAksara "ꦤꦶꦠꦺꦴ" ;
@@ -136,7 +136,7 @@
     jawa:berartiDalamBahasaIndonesia "berniat";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/ora> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦺꦫ" ;
@@ -144,7 +144,7 @@
     jawa:berartiDalamBahasaIndonesia "tidak";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/ngajak> a jawa:Kata ;
     jawa:memilikiAksara "ꦔꦗꦏ꧀" ;
@@ -152,7 +152,7 @@
     jawa:berartiDalamBahasaIndonesia "mengajak";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/ngajari> a jawa:Kata ;
     jawa:memilikiAksara "ꦔꦗꦫꦶ" ;
@@ -160,7 +160,7 @@
     jawa:berartiDalamBahasaIndonesia "mengajari";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/supaya> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦸꦥꦪ" ;
@@ -168,7 +168,7 @@
     jawa:berartiDalamBahasaIndonesia "agar";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/mbukak> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦧꦸꦏꦏ꧀" ;
@@ -176,7 +176,7 @@
     jawa:berartiDalamBahasaIndonesia "membuka";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/lawang> a jawa:Kata ;
     jawa:memilikiAksara "ꦭꦮꦁ" ;
@@ -184,7 +184,7 @@
     jawa:berartiDalamBahasaIndonesia "pintu";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/marang> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦫꦁ" ;
@@ -192,7 +192,7 @@
     jawa:berartiDalamBahasaIndonesia "kepada";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/sapa> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦥ" ;
@@ -200,7 +200,7 @@
     jawa:berartiDalamBahasaIndonesia "siapa";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/waé> a jawa:Kata ;
     jawa:memilikiAksara "ꦮꦌ" ;
@@ -208,7 +208,7 @@
     jawa:berartiDalamBahasaIndonesia "saja";
     jawa:memilikiContohKalimatIndonesia "Berniat untuk tidak mengajak anaknya, ibu kambing mengajarkan kepada sang anak untuk tidak membukakan pintu kepada siapa pun.";
     jawa:memilikiContohKalimatLatin "Niaté ora ngajak anaké, wedhus ngajari anaké supaya ora mbukak lawang marang sapa waé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦤꦶꦠꦺꦴꦎꦫꦔꦗꦏ꧀ꦲꦤꦏꦺ꧈ꦮꦼꦣꦸꦱ꧀ꦔꦗꦫꦶꦲꦤꦏꦺꦱꦸꦥꦪꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦩꦫꦁꦱꦥꦮꦲꦺ꧉".
 
 <http://example.org/kata/tetep> a jawa:Kata ;
     jawa:memilikiAksara "ꦠꦼꦠꦼཔ꧀" ;
@@ -216,7 +216,7 @@
     jawa:berartiDalamBahasaIndonesia "tetap";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/aman> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦩꦤ꧀" ;
@@ -224,7 +224,7 @@
     jawa:berartiDalamBahasaIndonesia "aman";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/omah> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦺꦴꦩꦃ" ;
@@ -232,7 +232,7 @@
     jawa:berartiDalamBahasaIndonesia "rumah";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/mulangaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦸꦭꦁꦏꦺ" ;
@@ -240,7 +240,7 @@
     jawa:berartiDalamBahasaIndonesia "mengajarkan";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/tembang> a jawa:Kata ;
     jawa:memilikiAksara "ꦠꦼꦩ꧀ꦧꦁ" ;
@@ -248,7 +248,7 @@
     jawa:berartiDalamBahasaIndonesia "lagu";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/minangka> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦶꦤꦁꦏ" ;
@@ -256,7 +256,7 @@
     jawa:berartiDalamBahasaIndonesia "sebagai";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/tandha> a jawa:Kata ;
     jawa:memilikiAksara "ꦠꦤ꧀ꦝ" ;
@@ -264,7 +264,7 @@
     jawa:berartiDalamBahasaIndonesia "tanda";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/ibuné> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦶꦧꦸꦤꦺ" ;
@@ -272,7 +272,7 @@
     jawa:berartiDalamBahasaIndonesia "ibunya";
     jawa:memilikiContohKalimatIndonesia "Agar anak kambing tetap aman di dalam rumah, ibu kambing mengajarkan sebuah lagu kepada anaknya sebagai petanda bahwa itu adalah ibunya.";
     jawa:memilikiContohKalimatLatin "Supaya anaké tetep aman ing omah, wedhus mulangaké tembang marang anaké minangka tandha yèn iku ibuné.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "꧋ꦱꦸꦥꦪꦲꦤꦏꦺꦠꦼꦠꦼཔ꧀ꦲꦩꦤ꧀ꦲꦶꦁꦲꦺꦴꦩꦃ꧈ꦮꦼꦣꦸꦱ꧀ꦩꦸꦭꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦩꦫꦁꦲꦤꦏꦺꦩꦶꦤꦁꦏꦠꦤ꧀ꦝꦪꦺꦤ꧀ꦆꦏꦸꦲꦶꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/nanging> a jawa:Kata ;
     jawa:memilikiAksara "ꦤꦔꦶꦁ" ;
@@ -280,7 +280,7 @@
     jawa:berartiDalamBahasaIndonesia "namun";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/ora> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦺꦫ" ;
@@ -288,7 +288,7 @@
     jawa:berartiDalamBahasaIndonesia "tidak";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/diweruhi> a jawa:Kata ;
     jawa:memilikiAksara "ꦢꦶꦮꦼꦫꦸꦃꦶ" ;
@@ -296,7 +296,7 @@
     jawa:berartiDalamBahasaIndonesia "diketahui";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/ing> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦶꦁ" ;
@@ -304,7 +304,7 @@
     jawa:berartiDalamBahasaIndonesia "di";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/njaba> a jawa:Kata ;
     jawa:memilikiAksara "ꦚ꧀ꦗꦧ" ;
@@ -312,7 +312,7 @@
     jawa:berartiDalamBahasaIndonesia "luar";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/ana> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦤ" ;
@@ -320,7 +320,7 @@
     jawa:berartiDalamBahasaIndonesia "ada";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/asu> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦱꦸ" ;
@@ -328,7 +328,7 @@
     jawa:berartiDalamBahasaIndonesia "anjing";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/ajag> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦗꦒ꧀" ;
@@ -336,7 +336,7 @@
     jawa:berartiDalamBahasaIndonesia "serigala";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/sing> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦶꦁ" ;
@@ -344,7 +344,7 @@
     jawa:berartiDalamBahasaIndonesia "yang";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/krungu> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦿꦸꦔꦸ" ;
@@ -352,7 +352,7 @@
     jawa:berartiDalamBahasaIndonesia "mendengar";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/omongané> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦺꦴꦩꦺꦴꦔꦤꦺ" ;
@@ -360,7 +360,7 @@
     jawa:berartiDalamBahasaIndonesia "pembicaraan";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/wedhus> a jawa:Kata ;
     jawa:memilikiAksara "ꦮꦼꦣꦸꦱ꧀" ;
@@ -368,7 +368,7 @@
     jawa:berartiDalamBahasaIndonesia "kambing";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/karo> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦫꦺꦴ" ;
@@ -376,7 +376,7 @@
     jawa:berartiDalamBahasaIndonesia "dengan";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/anaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦤꦏꦺ" ;
@@ -384,7 +384,7 @@
     jawa:berartiDalamBahasaIndonesia "anaknya";
     jawa:memilikiContohKalimatIndonesia "Namun tanpa diketahui, di luar sana terdapat seekor serigala yang mendengar percakapan antara ibu dan anak kambing tersebut.";
     jawa:memilikiContohKalimatLatin "Nanging ora diweruhi, ing njaba ana asu ajag sing krungu omongané wedhus karo anaké .";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦁꦒꦶꦁ ꦎꦫ ꦢꦶꦮꦼꦫꦸꦃꦶ꧈ ꦲꦶꦁ ꦚ꧀ꦗꦧ ꦲꦤ ꦲꦱꦸ ꦲꦗꦒ꧀ ꦱꦶꦁ ꦏꦿꦸꦔꦸ ꦎꦩꦺꦴꦔꦤꦺ꧈ ꦮꦼꦢꦸꦱ꧀ ꦏꦫꦺꦴ ꦲꦤꦏꦺ꧉".
 
 <http://example.org/kata/bareng> a jawa:Kata ;
     jawa:memilikiAksara "ꦧꦫꦺꦁ" ;
@@ -392,7 +392,7 @@
     jawa:berartiDalamBahasaIndonesia "ketika";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/ngerti> a jawa:Kata ;
     jawa:memilikiAksara "ꦔꦼꦂꦠꦶ" ;
@@ -400,7 +400,7 @@
     jawa:berartiDalamBahasaIndonesia "mengetahui";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/metu> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦼꦠꦸ" ;
@@ -408,7 +408,7 @@
     jawa:berartiDalamBahasaIndonesia "keluar";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/ninggalaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦤꦶꦁꦒꦭꦏꦺ" ;
@@ -416,7 +416,7 @@
     jawa:berartiDalamBahasaIndonesia "meninggalkan";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/kasebut> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦱꦼꦧꦸꦠ꧀" ;
@@ -424,7 +424,7 @@
     jawa:berartiDalamBahasaIndonesia "tersebut";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/langsung> a jawa:Kata ;
     jawa:memilikiAksara "ꦭꦁꦱꦸꦁ" ;
@@ -432,7 +432,7 @@
     jawa:berartiDalamBahasaIndonesia "langsung";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/nglakokaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦔ꧀ꦭꦏꦏꦺ" ;
@@ -440,7 +440,7 @@
     jawa:berartiDalamBahasaIndonesia "melakukan";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/aksiné> a jawa:Kata ;
     jawa:memilikiAksara "ꦄꦏ꧀ꦱꦶꦤꦺ" ;
@@ -448,7 +448,7 @@
     jawa:berartiDalamBahasaIndonesia "aksinya";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/kanthi> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦤ꧀ꦛꦶ" ;
@@ -456,7 +456,7 @@
     jawa:berartiDalamBahasaIndonesia "dengan";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/nembangaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦤꦼꦩ꧀ꦧꦁꦏꦺ" ;
@@ -464,7 +464,7 @@
     jawa:berartiDalamBahasaIndonesia "menyanyikan";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/tembang> a jawa:Kata ;
     jawa:memilikiAksara "ꦠꦼꦩ꧀ꦧꦁ" ;
@@ -472,7 +472,7 @@
     jawa:berartiDalamBahasaIndonesia "lagu";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/gaweané> a jawa:Kata ;
     jawa:memilikiAksara "ꦒꦮꦺꦤꦺ" ;
@@ -480,7 +480,7 @@
     jawa:berartiDalamBahasaIndonesia "buatan";
     jawa:memilikiContohKalimatIndonesia "Ketika mengetahui ibu kambing sudah pergi keluar dan meninggalkan anaknya seorang diri, serigala langsung melancarkan aksinya dengan menyanyikan lagu yang dibuat ibu kambing.";
     jawa:memilikiContohKalimatLatin "Bareng ngerti yèn wedhus metu lan ninggalaké anaké, asu ajag kasebut langsung nglakokaké aksiné kanthi nembangaké tembang gaweané wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦧꦫꦺꦁꦔꦼꦂꦠꦶꦪꦼꦤ꧀ꦮꦺꦝꦸꦱ꧀ꦩꦼꦠꦸꦭꦤ꧀ꦤꦶꦁꦒꦭꦏꦺꦄꦤꦏꦺ꧈ꦄꦱꦸꦄꦗꦒ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦭꦁꦱꦸꦁꦔ꧀ꦭꦏꦏꦺꦄꦏ꧀ꦱꦶꦤꦺꦏꦤ꧀ꦛꦶꦤꦼꦩ꧀ꦧꦁꦏꦺꦠꦼꦩ꧀ꦧꦁꦒꦮꦺꦤꦺꦮꦺꦝꦸꦱ꧀꧉".
 
 <http://example.org/kata/kagèt> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦒꦺꦠ꧀" ;
@@ -488,7 +488,7 @@
     jawa:berartiDalamBahasaIndonesia "terkejut";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/alasané> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦭꦱꦤꦺ" ;
@@ -496,7 +496,7 @@
     jawa:berartiDalamBahasaIndonesia "alasannya";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/nembé> a jawa:Kata ;
     jawa:memilikiAksara "ꦤꦼꦩ꧀ꦧꦺ" ;
@@ -504,7 +504,7 @@
     jawa:berartiDalamBahasaIndonesia "baru saja";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/saka> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦏ" ;
@@ -512,7 +512,7 @@
     jawa:berartiDalamBahasaIndonesia "dari";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/omah> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦺꦴꦩꦃ" ;
@@ -520,7 +520,7 @@
     jawa:berartiDalamBahasaIndonesia "rumah";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/swára> a jawa:Kata ;
     jawa:memilikiAksara "ꦱ꧀ꦮꦫ" ;
@@ -528,7 +528,7 @@
     jawa:berartiDalamBahasaIndonesia "suara";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/sing> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦶꦁ" ;
@@ -536,7 +536,7 @@
     jawa:berartiDalamBahasaIndonesia "yang";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/muni> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦸꦤꦶ" ;
@@ -544,7 +544,7 @@
     jawa:berartiDalamBahasaIndonesia "terdengar";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/béda> a jawa:Kata ;
     jawa:memilikiAksara "ꦧꦺꦢ" ;
@@ -552,7 +552,7 @@
     jawa:berartiDalamBahasaIndonesia "berbeda";
     jawa:memilikiContohKalimatIndonesia "Mendengar lagu tersebut, anak kambing pun merasa heran, pasalnya, ibunya baru saja keluar rumah dan suara yang terdengar pun berbeda dari suara ibunya. ";
     jawa:memilikiContohKalimatLatin "Krungu tembang kuwi, anak wedhus kagèt, alasané, ibuné nembé metu saka omah lan swara sing muni béda karo swarané ibuné. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦿꦸꦔꦸꦠꦼꦩ꧀ꦧꦁꦏꦸꦮꦶ꧈ꦄꦤꦏ꧀ꦮꦺꦝꦸꦱ꧀ꦏꦒꦺꦠ꧀꧈ꦲꦭꦱꦤꦺ꧈ꦆꦧꦸꦤꦺꦤꦼꦩ꧀ꦧꦺꦩꦼꦠꦸꦱꦏꦎꦩꦃꦭꦤ꧀ꦱ꧀ꦮꦫꦱꦶꦁꦩꦸꦤꦶꦧꦺꦢꦏꦫꦺꦱ꧀ꦮꦫꦤꦺꦆꦧꦸꦤꦺ꧉".
 
 <http://example.org/kata/ngerti> a jawa:Kata ;
     jawa:memilikiAksara "ꦔꦼꦂꦠꦶ" ;
@@ -560,7 +560,7 @@
     jawa:berartiDalamBahasaIndonesia "mengetahui";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/iki> a jawa:Kata ;
     jawa:memilikiAksara "ꦆꦏꦶ" ;
@@ -568,7 +568,7 @@
     jawa:berartiDalamBahasaIndonesia "ini";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/anak> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦤꦏ꧀" ;
@@ -576,7 +576,7 @@
     jawa:berartiDalamBahasaIndonesia "anak";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/ora> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦺꦫ" ;
@@ -584,7 +584,7 @@
     jawa:berartiDalamBahasaIndonesia "tidak";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/mbukak> a jawa:Kata ;
     jawa:memilikiAksara "ꦩꦧꦸꦏꦏ꧀" ;
@@ -592,7 +592,7 @@
     jawa:berartiDalamBahasaIndonesia "membuka";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/lawang> a jawa:Kata ;
     jawa:memilikiAksara "ꦭꦮꦁ" ;
@@ -600,7 +600,7 @@
     jawa:berartiDalamBahasaIndonesia "pintu";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/lan> a jawa:Kata ;
     jawa:memilikiAksara "ꦭꦤ꧀" ;
@@ -608,7 +608,7 @@
     jawa:berartiDalamBahasaIndonesia "dan";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/ndeleng> a jawa:Kata ;
     jawa:memilikiAksara "ꦤ꧀ꦢꦼꦭꦼꦁ" ;
@@ -616,7 +616,7 @@
     jawa:berartiDalamBahasaIndonesia "melihat";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/liwat> a jawa:Kata ;
     jawa:memilikiAksara "ꦭꦶꦮꦠ꧀" ;
@@ -624,7 +624,7 @@
     jawa:berartiDalamBahasaIndonesia "melalui";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/jendhéla> a jawa:Kata ;
     jawa:memilikiAksara "ꦗꦺꦤ꧀ꦝꦺꦭ" ;
@@ -632,7 +632,7 @@
     jawa:berartiDalamBahasaIndonesia "jendela";
     jawa:memilikiContohKalimatIndonesia "Mengetahui hal tersebut, anak kambing pun tidak membukakan pintu dan melihat lewat lubang jendela.  ";
     jawa:memilikiContohKalimatLatin "Ngerti iki, anak wedhus ora mbukak lawang lan ndeleng liwat jendhéla.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦔꦼꦂꦠꦶꦆꦏꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦎꦫꦩ꧀ꦧꦸꦏꦏ꧀ꦭꦮꦁꦭꦤ꧀ꦤ꧀ꦢꦼꦭꦼꁠꦭꦶꦮꦠ꧀ꦗꦺꦤ꧀ꦝꦺꦭ꧉".
 
 <http://example.org/kata/kagèt> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦒꦺꦠ꧀" ;
@@ -640,7 +640,7 @@
     jawa:berartiDalamBahasaIndonesia "terkejut";
     jawa:memilikiContohKalimatIndonesia "Betapa terkejutnya anak kambing saat melihat seekor serigala berada di depan rumahnya. ";
     jawa:memilikiContohKalimatLatin "Kagèt banget anak wedhus kasebut nalika ndeleng asu ajag ing ngarep omahé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦒꦺꦠ꧀ꦧꦁꦒꦼꦠ꧀ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦤꦭꦶꦏꦤ꧀ꦢꦼꦭꦼꦁꦲꦱꦸꦄꦗꦒ꧀ꦲꦶꦁꦔꦫꦼꦥ꧀ꦎꦩꦺꦃ꧉".
 
 <http://example.org/kata/banget> a jawa:Kata ;
     jawa:memilikiAksara "ꦧꦁꦒꦼꦠ꧀" ;
@@ -648,7 +648,7 @@
     jawa:berartiDalamBahasaIndonesia "sekali";
     jawa:memilikiContohKalimatIndonesia "Betapa terkejutnya anak kambing saat melihat seekor serigala berada di depan rumahnya. ";
     jawa:memilikiContohKalimatLatin "Kagèt banget anak wedhus kasebut nalika ndeleng asu ajag ing ngarep omahé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦒꦺꦠ꧀ꦧꦁꦒꦼꦠ꧀ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦤꦭꦶꦏꦤ꧀ꦢꦼꦭꦼꦁꦲꦱꦸꦄꦗꦒ꧀ꦲꦶꦁꦔꦫꦼꦥ꧀ꦎꦩꦺꦃ꧉".
 
 <http://example.org/kata/kasebut> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦱꦼꦧꦸꦠ꧀" ;
@@ -656,7 +656,7 @@
     jawa:berartiDalamBahasaIndonesia "tersebut";
     jawa:memilikiContohKalimatIndonesia "Betapa terkejutnya anak kambing saat melihat seekor serigala berada di depan rumahnya. ";
     jawa:memilikiContohKalimatLatin "Kagèt banget anak wedhus kasebut nalika ndeleng asu ajag ing ngarep omahé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦒꦺꦠ꧀ꦧꦁꦒꦼꦠ꧀ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦤꦭꦶꦏꦤ꧀ꦢꦼꦭꦼꦁꦲꦱꦸꦄꦗꦒ꧀ꦲꦶꦁꦔꦫꦼꦥ꧀ꦎꦩꦺꦃ꧉".
 
 <http://example.org/kata/nalika> a jawa:Kata ;
     jawa:memilikiAksara "ꦤꦭꦶꦏ" ;
@@ -664,7 +664,7 @@
     jawa:berartiDalamBahasaIndonesia "ketika";
     jawa:memilikiContohKalimatIndonesia "Betapa terkejutnya anak kambing saat melihat seekor serigala berada di depan rumahnya. ";
     jawa:memilikiContohKalimatLatin "Kagèt banget anak wedhus kasebut nalika ndeleng asu ajag ing ngarep omahé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦒꦺꦠ꧀ꦧꦁꦒꦼꦠ꧀ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦤꦭꦶꦏꦤ꧀ꦢꦼꦭꦼꦁꦲꦱꦸꦄꦗꦒ꧀ꦲꦶꦁꦔꦫꦼꦥ꧀ꦎꦩꦺꦃ꧉".
 
 <http://example.org/kata/ngarep> a jawa:Kata ;
     jawa:memilikiAksara "ꦔꦫꦼꦥ꧀" ;
@@ -672,7 +672,7 @@
     jawa:berartiDalamBahasaIndonesia "depan";
     jawa:memilikiContohKalimatIndonesia "Betapa terkejutnya anak kambing saat melihat seekor serigala berada di depan rumahnya. ";
     jawa:memilikiContohKalimatLatin "Kagèt banget anak wedhus kasebut nalika ndeleng asu ajag ing ngarep omahé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦒꦺꦠ꧀ꦧꦁꦒꦼꦠ꧀ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦤꦭꦶꦏꦤ꧀ꦢꦼꦭꦼꦁꦲꦱꦸꦄꦗꦒ꧀ꦲꦶꦁꦔꦫꦼꦥ꧀ꦎꦩꦺꦃ꧉".
 
 <http://example.org/kata/omahé> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦺꦴꦩꦃꦺ" ;
@@ -680,7 +680,7 @@
     jawa:berartiDalamBahasaIndonesia "rumahnya";
     jawa:memilikiContohKalimatIndonesia "Betapa terkejutnya anak kambing saat melihat seekor serigala berada di depan rumahnya. ";
     jawa:memilikiContohKalimatLatin "Kagèt banget anak wedhus kasebut nalika ndeleng asu ajag ing ngarep omahé.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦒꦺꦠ꧀ꦧꦁꦒꦼꦠ꧀ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦤꦭꦶꦏꦤ꧀ꦢꦼꦭꦼꦁꦲꦱꦸꦄꦗꦒ꧀ꦲꦶꦁꦔꦫꦼꦥ꧀ꦎꦩꦺꦃ꧉".
 
 <http://example.org/kata/rumangsa> a jawa:Kata ;
     jawa:memilikiAksara "ꦫꦸꦩꦁꦱ" ;
@@ -688,7 +688,7 @@
     jawa:berartiDalamBahasaIndonesia "merasa";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/diancam> a jawa:Kata ;
     jawa:memilikiAksara "ꦢꦶꦲꦚ꧀ꦕꦩ꧀" ;
@@ -696,7 +696,7 @@
     jawa:berartiDalamBahasaIndonesia "terancam";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/wedi> a jawa:Kata ;
     jawa:memilikiAksara "ꦮꦼꦢꦶ" ;
@@ -704,7 +704,7 @@
     jawa:berartiDalamBahasaIndonesia "takut";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/njerit> a jawa:Kata ;
     jawa:memilikiAksara "ꦚ꧀ꦗꦼꦫꦶꦠ꧀" ;
@@ -712,7 +712,7 @@
     jawa:berartiDalamBahasaIndonesia "berteriak";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/nggawe> a jawa:Kata ;
     jawa:memilikiAksara "ꦔ꧀ꦒꦮꦺ" ;
@@ -720,7 +720,7 @@
     jawa:berartiDalamBahasaIndonesia "membuat";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/kèwan> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦺꦮꦤ꧀" ;
@@ -728,7 +728,7 @@
     jawa:berartiDalamBahasaIndonesia "hewan";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/liyané> a jawa:Kata ;
     jawa:memilikiAksara "ꦭꦶꦪꦤꦺ" ;
@@ -736,7 +736,7 @@
     jawa:berartiDalamBahasaIndonesia "lainnya";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/nyedhaki> a jawa:Kata ;
     jawa:memilikiAksara "ꦚꦼꦝꦏꦶ" ;
@@ -744,7 +744,7 @@
     jawa:berartiDalamBahasaIndonesia "mendekati";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/dhèwèké> a jawa:Kata ;
     jawa:memilikiAksara "ꦝꦺꦮꦺꦏꦺ" ;
@@ -752,7 +752,7 @@
     jawa:berartiDalamBahasaIndonesia "dirinya";
     jawa:memilikiContohKalimatIndonesia "Merasa terancam dan ketakutan, anak kambing pun berteriak dan membuat binatang lain menghampirinya. ";
     jawa:memilikiContohKalimatLatin "Rumangsa diancam lan wedi, anak wedhus kasebut njerit lan nggawé kèwan liyané nyedhaki dhèwèké. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦫꦸꦩꦁꦱꦢꦶꦲꦚ꧀ꦕꦩ꧀ꦭꦤ꧀ꦮꦼꦢꦶ꧈ꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀ꦏꦱꦼꦧꦸꦠ꧀ꦚ꧀ꦗꦼꦫꦶꦠ꧀ꦭꦤ꧀ꦔ꧀ꦒꦮꦺ꧈ꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺ꧈ꦚꦼꦝꦏꦶꦝꦺꦮꦺꦏꦺ꧉".
 
 <http://example.org/kata/nekani> a jawa:Kata ;
     jawa:memilikiAksara "ꦤꦺꦏꦤꦶ" ;
@@ -760,7 +760,7 @@
     jawa:berartiDalamBahasaIndonesia "mendatangi";
     jawa:memilikiContohKalimatIndonesia "Saat binatang lain datang menghampiri anak kambing, serigala ketakutan dan akhirnya lari meninggalkan rumah kambing.";
     jawa:memilikiContohKalimatLatin "Nalika kéwan liyane nekani anak wedhus, asu ajag wedi lan mlayu saka omahé wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦭꦶꦏꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺꦤꦺꦏꦤꦶꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀꧈ꦲꦱꦸꦗꦒ꧀ꦮꦼꦢꦶꦭꦤ꧀ꦩ꧀ꦭꦪꦸꦱꦏꦲꦺꦮꦺꦢꦸꦱ꧀꧉".
 
 <http://example.org/kata/mlayu> a jawa:Kata ;
     jawa:memilikiAksara "ꦩ꧀ꦭꦪꦸ" ;
@@ -768,7 +768,7 @@
     jawa:berartiDalamBahasaIndonesia "lari";
     jawa:memilikiContohKalimatIndonesia "Saat binatang lain datang menghampiri anak kambing, serigala ketakutan dan akhirnya lari meninggalkan rumah kambing.";
     jawa:memilikiContohKalimatLatin "Nalika kéwan liyane nekani anak wedhus, asu ajag wedi lan mlayu saka omahé wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦭꦶꦏꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺꦤꦺꦏꦤꦶꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀꧈ꦲꦱꦸꦗꦒ꧀ꦮꦼꦢꦶꦭꦤ꧀ꦩ꧀ꦭꦪꦸꦱꦏꦲꦺꦮꦺꦢꦸꦱ꧀꧉".
 
 <http://example.org/kata/saka> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦏ" ;
@@ -776,7 +776,7 @@
     jawa:berartiDalamBahasaIndonesia "dari";
     jawa:memilikiContohKalimatIndonesia "Saat binatang lain datang menghampiri anak kambing, serigala ketakutan dan akhirnya lari meninggalkan rumah kambing.";
     jawa:memilikiContohKalimatLatin "Nalika kéwan liyane nekani anak wedhus, asu ajag wedi lan mlayu saka omahé wedhus.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦤꦭꦶꦏꦏꦺꦮꦤ꧀ꦭꦶꦪꦤꦺꦤꦺꦏꦤꦶꦲꦤꦏ꧀ꦮꦺꦢꦸꦱ꧀꧈ꦲꦱꦸꦗꦒ꧀ꦮꦼꦢꦶꦭꦤ꧀ꦩ꧀ꦭꦪꦸꦱꦏꦲꦺꦮꦺꦢꦸꦱ꧀꧉".
 
 <http://example.org/kata/kuwi> a jawa:Kata ;
     jawa:memilikiAksara "ꦏꦸꦮꦶ" ;
@@ -784,7 +784,7 @@
     jawa:berartiDalamBahasaIndonesia "itulah";
     jawa:memilikiContohKalimatIndonesia " Itulah kisah anak kambing yang cerdik. ";
     jawa:memilikiContohKalimatLatin "Kuwi critané wedhus sing pinter. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦸꦮꦶ ꦕꦿꦶꦠꦤꦺ ꦮꦼꦝꦸꦱ꧀ ꦱꦶꦁ ꦥꦶꦤ꧀ꦠꦼꦂ꧉".
 
 <http://example.org/kata/critané> a jawa:Kata ;
     jawa:memilikiAksara "ꦕꦿꦶꦠꦤꦺ" ;
@@ -792,7 +792,7 @@
     jawa:berartiDalamBahasaIndonesia "ceritanya";
     jawa:memilikiContohKalimatIndonesia " Itulah kisah anak kambing yang cerdik. ";
     jawa:memilikiContohKalimatLatin "Kuwi critané wedhus sing pinter. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦸꦮꦶ ꦕꦿꦶꦠꦤꦺ ꦮꦼꦝꦸꦱ꧀ ꦱꦶꦁ ꦥꦶꦤ꧀ꦠꦼꦂ꧉".
 
 <http://example.org/kata/wedhus> a jawa:Kata ;
     jawa:memilikiAksara "ꦮꦼꦣꦸꦱ꧀" ;
@@ -800,7 +800,7 @@
     jawa:berartiDalamBahasaIndonesia "kambing";
     jawa:memilikiContohKalimatIndonesia " Itulah kisah anak kambing yang cerdik. ";
     jawa:memilikiContohKalimatLatin "Kuwi critané wedhus sing pinter. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦸꦮꦶ ꦕꦿꦶꦠꦤꦺ ꦮꦼꦝꦸꦱ꧀ ꦱꦶꦁ ꦥꦶꦤ꧀ꦠꦼꦂ꧉".
 
 <http://example.org/kata/sing> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦶꦁ" ;
@@ -808,7 +808,7 @@
     jawa:berartiDalamBahasaIndonesia "yang";
     jawa:memilikiContohKalimatIndonesia " Itulah kisah anak kambing yang cerdik. ";
     jawa:memilikiContohKalimatLatin "Kuwi critané wedhus sing pinter. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦸꦮꦶ ꦕꦿꦶꦠꦤꦺ ꦮꦼꦝꦸꦱ꧀ ꦱꦶꦁ ꦥꦶꦤ꧀ꦠꦼꦂ꧉".
 
 <http://example.org/kata/pinter> a jawa:Kata ;
     jawa:memilikiAksara "ꦥꦶꦤ꧀ꦠꦼꦂ" ;
@@ -816,7 +816,7 @@
     jawa:berartiDalamBahasaIndonesia "cerdik";
     jawa:memilikiContohKalimatIndonesia " Itulah kisah anak kambing yang cerdik. ";
     jawa:memilikiContohKalimatLatin "Kuwi critané wedhus sing pinter. ";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦏꦸꦮꦶ ꦕꦿꦶꦠꦤꦺ ꦮꦼꦝꦸꦱ꧀ ꦱꦶꦁ ꦥꦶꦤ꧀ꦠꦼꦂ꧉".
 
 <http://example.org/kata/pesen> a jawa:Kata ;
     jawa:memilikiAksara "ꦥꦼꦱꦼꦤ꧀" ;
@@ -824,7 +824,7 @@
     jawa:berartiDalamBahasaIndonesia "pesan";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/bisa> a jawa:Kata ;
     jawa:memilikiAksara "ꦧꦶꦱ" ;
@@ -832,7 +832,7 @@
     jawa:berartiDalamBahasaIndonesia "yang bisa";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/diwulangaké> a jawa:Kata ;
     jawa:memilikiAksara "ꦢꦶꦮꦸꦭꦁꦏꦺ" ;
@@ -840,7 +840,7 @@
     jawa:berartiDalamBahasaIndonesia "diajarkan";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/saka> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦏ" ;
@@ -848,7 +848,7 @@
     jawa:berartiDalamBahasaIndonesia "dari";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/dongèng> a jawa:Kata ;
     jawa:memilikiAksara "ꦢꦺꦴꦁꦒꦼꦁ" ;
@@ -856,7 +856,7 @@
     jawa:berartiDalamBahasaIndonesia "dongeng";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/iki> a jawa:Kata ;
     jawa:memilikiAksara "ꦆꦏꦶ" ;
@@ -864,7 +864,7 @@
     jawa:berartiDalamBahasaIndonesia "ini";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/yakuwi> a jawa:Kata ;
     jawa:memilikiAksara "ꦪꦏꦸꦮꦶ" ;
@@ -872,7 +872,7 @@
     jawa:berartiDalamBahasaIndonesia "yaitu";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/supaya> a jawa:Kata ;
     jawa:memilikiAksara "ꦱꦸꦥꦪ" ;
@@ -880,7 +880,7 @@
     jawa:berartiDalamBahasaIndonesia "agar";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/tansah> a jawa:Kata ;
     jawa:memilikiAksara "ꦠꦤ꧀ꦱꦃ" ;
@@ -888,7 +888,7 @@
     jawa:berartiDalamBahasaIndonesia "senantiasa";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/waspada> a jawa:Kata ;
     jawa:memilikiAksara "ꦮꦱ꧀ꦥꦢ" ;
@@ -896,7 +896,7 @@
     jawa:berartiDalamBahasaIndonesia "waspada";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/lan> a jawa:Kata ;
     jawa:memilikiAksara "ꦭꦤ꧀" ;
@@ -904,7 +904,7 @@
     jawa:berartiDalamBahasaIndonesia "dan";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/aja> a jawa:Kata ;
     jawa:memilikiAksara "ꦲꦗ" ;
@@ -912,45 +912,11 @@
     jawa:berartiDalamBahasaIndonesia "jangan";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
     jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
+    jawa:memilikiContohKalimatAksara "ꦥꦼꦱꦼꦤ꧀ ꦱꦶꦁ ꦧꦶꦱ ꦢꦶꦮꦸꦭꦁꦏꦺ ꦱꦏ ꦢꦺꦴꦁꦒꦼꦁ ꦆꦏꦶ ꦪꦏꦸꦮꦶ ꦱꦸꦥꦪ ꦠꦤ꧀ꦱꦃ ꦮꦱ꧀ꦥꦢ ꦭꦤ꧀ ꦲꦗ ꦒꦩ꧀ꦥꦁ ꦥꦼꦂꦕꦪ ꦩꦫꦁ ꦮꦺꦴꦁ ꦭꦶꦪꦃ꧉".
 
 <http://example.org/kata/gampang> a jawa:Kata ;
     jawa:memilikiAksara "ꦒꦩ꧀ꦥꦁ" ;
     jawa:ditulisDenganLatin "gampang" ;
     jawa:berartiDalamBahasaIndonesia "mudah";
     jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
-    jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
-
-<http://example.org/kata/percaya> a jawa:Kata ;
-    jawa:memilikiAksara "ꦥꦼꦂꦕꦪ" ;
-    jawa:ditulisDenganLatin "percaya" ;
-    jawa:berartiDalamBahasaIndonesia "percaya";
-    jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
-    jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
-
-<http://example.org/kata/marang> a jawa:Kata ;
-    jawa:memilikiAksara "ꦩꦫꦁ" ;
-    jawa:ditulisDenganLatin "marang" ;
-    jawa:berartiDalamBahasaIndonesia "kepada";
-    jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
-    jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
-
-<http://example.org/kata/wong> a jawa:Kata ;
-    jawa:memilikiAksara "ꦮꦺꦴꦁ" ;
-    jawa:ditulisDenganLatin "wong" ;
-    jawa:berartiDalamBahasaIndonesia "orang";
-    jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
-    jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
-
-<http://example.org/kata/liya> a jawa:Kata ;
-    jawa:memilikiAksara "ꦭꦶꦪ" ;
-    jawa:ditulisDenganLatin "liya" ;
-    jawa:berartiDalamBahasaIndonesia "lain";
-    jawa:memilikiContohKalimatIndonesia "Di mana pesan yang bisa diajarkan dari dongeng ini adalah untuk senantiasa waspada dan tidak mudah percaya dengan orang asing.";
-    jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja gampang percaya marang wong liya.";
-    jawa:memilikiContohKalimatAksara "".
-
+    jawa:memilikiContohKalimatLatin "Pesen sing bisa diwulangaké saka dongèng iki yaiku supaya tansah waspada lan aja
